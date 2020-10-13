@@ -1,0 +1,10 @@
+*{margin:0px;padding:0px;box-sizing:border-box;}
+.nav_item_cm:hover{
+    border:1px solid white;
+    text-decoration:none;
+    border-radius:10px;
+    
+}
+.nav_item_cm{
+    transition:2s;
+}
